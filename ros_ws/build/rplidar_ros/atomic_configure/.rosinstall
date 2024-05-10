@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jingxiangmo/Developer/DUM-E/ros_ws/devel/.private/rplidar_ros/setup.sh
