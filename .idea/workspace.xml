@@ -9,8 +9,72 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e21a60-6463-40e7-833a-defca14ba58f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="03e21a60-6463-40e7-833a-defca14ba58f" name="Changes" comment="Basic build">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/.catkin_tools/profiles/default/devel_collisions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/.catkin_tools/profiles/default/devel_collisions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/devel/.catkin" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/devel/.catkin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.006.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.007.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.008.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.009.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.010.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.011.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.012.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.013.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.014.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.015.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.005.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.006.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.007.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.008.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.009.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.010.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.011.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.012.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.013.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.check.014.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.006.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.007.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.008.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.009.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.010.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.011.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.012.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.013.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.014.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.loadenv.015.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.006.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.007.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.008.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.009.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.010.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.011.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.012.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.013.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.014.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.015.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.022.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.023.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.024.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.025.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.026.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.027.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.028.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.029.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.030.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.031.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.006.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.007.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.008.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.009.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.010.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.011.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.012.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.013.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.014.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.015.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +85,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ros_ws/src/hector_slam" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -50,8 +114,8 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/jingxiangmo/Developer/DUM-E",
+    "git-widget-placeholder": "noetic-devel",
+    "last_opened_file_path": "/home/jingxiangmo/Developer/DUM-E/ros_ws/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +124,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ros_ws/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,11 +137,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715362305144</updated>
-      <workItem from="1715362306215" duration="1336000" />
+      <workItem from="1715362306215" duration="3641000" />
     </task>
+    <task id="LOCAL-00001" summary="Basic build">
+      <option name="closed" value="true" />
+      <created>1715365158066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715365158066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic build" />
   </component>
 </project>
