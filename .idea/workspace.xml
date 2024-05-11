@@ -9,9 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e21a60-6463-40e7-833a-defca14ba58f" name="Changes" comment="Basic build">
+    <list default="true" id="03e21a60-6463-40e7-833a-defca14ba58f" name="Changes" comment="Hector SLAM">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/.catkin_tools/profiles/default/devel_collisions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/.catkin_tools/profiles/default/devel_collisions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/devel/.catkin" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/devel/.catkin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.cache-manifest.006.log" beforeDir="false" />
@@ -54,7 +55,6 @@
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.013.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.014.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.015.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.log" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.make.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.022.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.023.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.mkdir.024.log" beforeDir="false" />
@@ -75,6 +75,8 @@
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.013.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.014.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ros_ws/logs/rplidar_ros/build.symlink.015.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/src/hector_slam/hector_mapping/launch/mapping_default.launch" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/src/hector_slam/hector_mapping/launch/mapping_default.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ros_ws/src/hector_slam/hector_slam_launch/launch/tutorial.launch" beforeDir="false" afterPath="$PROJECT_DIR$/ros_ws/src/hector_slam/hector_slam_launch/launch/tutorial.launch" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ros_ws/src/hector_slam" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -114,7 +116,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "noetic-devel",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/jingxiangmo/Developer/DUM-E/ros_ws/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -137,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715362305144</updated>
-      <workItem from="1715362306215" duration="3641000" />
+      <workItem from="1715362306215" duration="4572000" />
     </task>
     <task id="LOCAL-00001" summary="Basic build">
       <option name="closed" value="true" />
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715365158066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hector SLAM">
+      <option name="closed" value="true" />
+      <created>1715368345763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715368345763</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic build" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic build" />
+    <MESSAGE value="Hector SLAM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hector SLAM" />
   </component>
 </project>
